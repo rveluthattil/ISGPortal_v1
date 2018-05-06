@@ -1,0 +1,2 @@
+ensure that the import in styles finishes with a ;
+install firebase 4.5.0 - npm i --save firebase@4.5.0  to get firebase working
